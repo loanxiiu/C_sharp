@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\bin\Debug\net8.0\CS24_indexer.exe
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\bin\Debug\net8.0\CS24_indexer.deps.json
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\bin\Debug\net8.0\CS24_indexer.runtimeconfig.json
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\bin\Debug\net8.0\CS24_indexer.dll
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\bin\Debug\net8.0\CS24_indexer.pdb
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\obj\Debug\net8.0\CS24_indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\obj\Debug\net8.0\CS24_indexer.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\obj\Debug\net8.0\CS24_indexer.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\obj\Debug\net8.0\CS24_indexer.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\obj\Debug\net8.0\CS24_indexer.dll
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\obj\Debug\net8.0\refint\CS24_indexer.dll
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\obj\Debug\net8.0\CS24_indexer.pdb
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\obj\Debug\net8.0\CS24_indexer.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS24_indexer\CS24_indexer\obj\Debug\net8.0\ref\CS24_indexer.dll

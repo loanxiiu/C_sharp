@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\obj\Debug\net8.0\CS28_File_read_write.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\obj\Debug\net8.0\CS28_File_read_write.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\obj\Debug\net8.0\CS28_File_read_write.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\obj\Debug\net8.0\CS28_File_read_write.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\bin\Debug\net8.0\CS28_File_read_write.exe
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\bin\Debug\net8.0\CS28_File_read_write.deps.json
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\bin\Debug\net8.0\CS28_File_read_write.runtimeconfig.json
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\bin\Debug\net8.0\CS28_File_read_write.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\bin\Debug\net8.0\CS28_File_read_write.pdb
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\obj\Debug\net8.0\CS28_File_read_write.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\obj\Debug\net8.0\refint\CS28_File_read_write.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\obj\Debug\net8.0\CS28_File_read_write.pdb
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\obj\Debug\net8.0\CS28_File_read_write.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\CS28_File_read_write\obj\Debug\net8.0\ref\CS28_File_read_write.dll

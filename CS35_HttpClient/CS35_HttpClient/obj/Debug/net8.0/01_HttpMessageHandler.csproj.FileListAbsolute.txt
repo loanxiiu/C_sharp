@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\bin\Debug\net8.0\01_HttpMessageHandler.exe
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\bin\Debug\net8.0\01_HttpMessageHandler.deps.json
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\bin\Debug\net8.0\01_HttpMessageHandler.runtimeconfig.json
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\bin\Debug\net8.0\01_HttpMessageHandler.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\bin\Debug\net8.0\01_HttpMessageHandler.pdb
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\obj\Debug\net8.0\01_HttpMessageHandler.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\obj\Debug\net8.0\01_HttpMessageHandler.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\obj\Debug\net8.0\01_HttpMessageHandler.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\obj\Debug\net8.0\01_HttpMessageHandler.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\obj\Debug\net8.0\01_HttpMessageHandler.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\obj\Debug\net8.0\refint\01_HttpMessageHandler.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\obj\Debug\net8.0\01_HttpMessageHandler.pdb
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\obj\Debug\net8.0\01_HttpMessageHandler.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\CS35_HttpClient\obj\Debug\net8.0\ref\01_HttpMessageHandler.dll

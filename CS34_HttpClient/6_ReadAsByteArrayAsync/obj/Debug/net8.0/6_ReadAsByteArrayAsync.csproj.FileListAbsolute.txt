@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\bin\Debug\net8.0\6_ReadAsByteArrayAsync.exe
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\bin\Debug\net8.0\6_ReadAsByteArrayAsync.deps.json
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\bin\Debug\net8.0\6_ReadAsByteArrayAsync.runtimeconfig.json
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\bin\Debug\net8.0\6_ReadAsByteArrayAsync.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\bin\Debug\net8.0\6_ReadAsByteArrayAsync.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\obj\Debug\net8.0\6_ReadAsByteArrayAsync.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\obj\Debug\net8.0\6_ReadAsByteArrayAsync.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\obj\Debug\net8.0\6_ReadAsByteArrayAsync.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\obj\Debug\net8.0\6_ReadAsByteArrayAsync.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\obj\Debug\net8.0\6_ReadAsByteArrayAsync.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\obj\Debug\net8.0\refint\6_ReadAsByteArrayAsync.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\obj\Debug\net8.0\6_ReadAsByteArrayAsync.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\obj\Debug\net8.0\6_ReadAsByteArrayAsync.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\6_ReadAsByteArrayAsync\obj\Debug\net8.0\ref\6_ReadAsByteArrayAsync.dll

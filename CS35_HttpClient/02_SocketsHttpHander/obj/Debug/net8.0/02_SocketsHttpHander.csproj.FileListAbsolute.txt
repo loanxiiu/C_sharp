@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\bin\Debug\net8.0\02_SocketsHttpHander.exe
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\bin\Debug\net8.0\02_SocketsHttpHander.deps.json
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\bin\Debug\net8.0\02_SocketsHttpHander.runtimeconfig.json
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\bin\Debug\net8.0\02_SocketsHttpHander.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\bin\Debug\net8.0\02_SocketsHttpHander.pdb
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\obj\Debug\net8.0\02_SocketsHttpHander.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\obj\Debug\net8.0\02_SocketsHttpHander.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\obj\Debug\net8.0\02_SocketsHttpHander.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\obj\Debug\net8.0\02_SocketsHttpHander.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\obj\Debug\net8.0\02_SocketsHttpHander.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\obj\Debug\net8.0\refint\02_SocketsHttpHander.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\obj\Debug\net8.0\02_SocketsHttpHander.pdb
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\obj\Debug\net8.0\02_SocketsHttpHander.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\02_SocketsHttpHander\obj\Debug\net8.0\ref\02_SocketsHttpHander.dll

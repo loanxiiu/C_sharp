@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\bin\Debug\net8.0\03_Coockies.exe
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\bin\Debug\net8.0\03_Coockies.deps.json
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\bin\Debug\net8.0\03_Coockies.runtimeconfig.json
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\bin\Debug\net8.0\03_Coockies.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\bin\Debug\net8.0\03_Coockies.pdb
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\obj\Debug\net8.0\03_Coockies.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\obj\Debug\net8.0\03_Coockies.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\obj\Debug\net8.0\03_Coockies.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\obj\Debug\net8.0\03_Coockies.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\obj\Debug\net8.0\03_Coockies.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\obj\Debug\net8.0\refint\03_Coockies.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\obj\Debug\net8.0\03_Coockies.pdb
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\obj\Debug\net8.0\03_Coockies.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\03_Coockies\obj\Debug\net8.0\ref\03_Coockies.dll

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47ABD8FA-6C2E-46A8-91EF-F9E6CFFB2823}|HashSet\\HashSet.csproj|d:\\users\\ploan\\source\\repos\\cs27_queue_stack_linkedlist\\hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47ABD8FA-6C2E-46A8-91EF-F9E6CFFB2823}|HashSet\\HashSet.csproj|solutionrelative:hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E9815A-C05C-446B-917E-DF5207BC1A3E}|Dictionary\\Dictionary.csproj|d:\\users\\ploan\\source\\repos\\cs27_queue_stack_linkedlist\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E9815A-C05C-446B-917E-DF5207BC1A3E}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5705E1FB-0E8F-40D4-9579-A1DCAAE79C49}|LinkedList\\LinkedList.csproj|d:\\users\\ploan\\source\\repos\\cs27_queue_stack_linkedlist\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5705E1FB-0E8F-40D4-9579-A1DCAAE79C49}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110DF10C-0491-47FD-8F9F-896D3D8F3164}|Stack\\Stack.csproj|d:\\users\\ploan\\source\\repos\\cs27_queue_stack_linkedlist\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110DF10C-0491-47FD-8F9F-896D3D8F3164}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C792EA-E7E1-47F5-87D7-BE0FCA7DDD32}|CS27_Queue_Stack_LinkedList\\CS27_Queue_Stack_LinkedList.csproj|D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\cs27_queue_stack_linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C792EA-E7E1-47F5-87D7-BE0FCA7DDD32}|CS27_Queue_Stack_LinkedList\\CS27_Queue_Stack_LinkedList.csproj|solutionrelative:cs27_queue_stack_linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\HashSet\\Program.cs",
+              "RelativeDocumentMoniker": "HashSet\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\HashSet\\Program.cs",
+              "RelativeToolTip": "HashSet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:39:42.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\Dictionary\\Program.cs",
+              "RelativeToolTip": "Dictionary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:33:19.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "LinkedList\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\LinkedList\\Program.cs",
+              "RelativeToolTip": "LinkedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:21:08.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Stack\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\Stack\\Program.cs",
+              "RelativeToolTip": "Stack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:51:33.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\CS27_Queue_Stack_LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "CS27_Queue_Stack_LinkedList\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS27_Queue_Stack_LinkedList\\CS27_Queue_Stack_LinkedList\\Program.cs",
+              "RelativeToolTip": "CS27_Queue_Stack_LinkedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:44:37.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

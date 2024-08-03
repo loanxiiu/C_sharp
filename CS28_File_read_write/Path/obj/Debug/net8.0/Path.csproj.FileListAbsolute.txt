@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\bin\Debug\net8.0\Path.exe
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\bin\Debug\net8.0\Path.deps.json
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\bin\Debug\net8.0\Path.runtimeconfig.json
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\bin\Debug\net8.0\Path.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\bin\Debug\net8.0\Path.pdb
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\obj\Debug\net8.0\Path.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\obj\Debug\net8.0\Path.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\obj\Debug\net8.0\Path.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\obj\Debug\net8.0\Path.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\obj\Debug\net8.0\Path.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\obj\Debug\net8.0\refint\Path.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\obj\Debug\net8.0\Path.pdb
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\obj\Debug\net8.0\Path.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\Path\obj\Debug\net8.0\ref\Path.dll

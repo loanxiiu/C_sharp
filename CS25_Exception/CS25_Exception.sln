@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS25_Exception", "CS25_Exception\CS25_Exception.csproj", "{78B202E6-100A-4DDC-A68F-BF8C87B51A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B202E6-100A-4DDC-A68F-BF8C87B51A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B202E6-100A-4DDC-A68F-BF8C87B51A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B202E6-100A-4DDC-A68F-BF8C87B51A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B202E6-100A-4DDC-A68F-BF8C87B51A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C7D735C-6686-4137-8B67-B542580F075B}
+	EndGlobalSection
+EndGlobal

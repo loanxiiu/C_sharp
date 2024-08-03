@@ -1,0 +1,14 @@
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\bin\Debug\net8.0\3_Task.exe
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\bin\Debug\net8.0\3_Task.deps.json
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\bin\Debug\net8.0\3_Task.runtimeconfig.json
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\bin\Debug\net8.0\3_Task.dll
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\bin\Debug\net8.0\3_Task.pdb
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\obj\Debug\net8.0\3_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\obj\Debug\net8.0\3_Task.AssemblyInfoInputs.cache
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\obj\Debug\net8.0\3_Task.AssemblyInfo.cs
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\obj\Debug\net8.0\3_Task.csproj.CoreCompileInputs.cache
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\obj\Debug\net8.0\3_Task.dll
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\obj\Debug\net8.0\refint\3_Task.dll
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\obj\Debug\net8.0\3_Task.pdb
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\obj\Debug\net8.0\3_Task.genruntimeconfig.cache
+C:\Users\ploan\source\repos\CS29_Asynchronous\Task\obj\Debug\net8.0\ref\3_Task.dll

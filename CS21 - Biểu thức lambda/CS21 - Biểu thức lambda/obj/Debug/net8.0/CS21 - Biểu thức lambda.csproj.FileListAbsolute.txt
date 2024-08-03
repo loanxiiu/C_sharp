@@ -1,0 +1,14 @@
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\bin\Debug\net8.0\CS21 - Biểu thức lambda.exe
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\bin\Debug\net8.0\CS21 - Biểu thức lambda.deps.json
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\bin\Debug\net8.0\CS21 - Biểu thức lambda.runtimeconfig.json
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\bin\Debug\net8.0\CS21 - Biểu thức lambda.dll
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\bin\Debug\net8.0\CS21 - Biểu thức lambda.pdb
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\obj\Debug\net8.0\CS21 - Biểu thức lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\obj\Debug\net8.0\CS21 - Biểu thức lambda.AssemblyInfoInputs.cache
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\obj\Debug\net8.0\CS21 - Biểu thức lambda.AssemblyInfo.cs
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\obj\Debug\net8.0\CS21 - Biểu thức lambda.csproj.CoreCompileInputs.cache
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\obj\Debug\net8.0\CS21 - Biểu thức lambda.dll
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\obj\Debug\net8.0\refint\CS21 - Biểu thức lambda.dll
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\obj\Debug\net8.0\CS21 - Biểu thức lambda.pdb
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\obj\Debug\net8.0\CS21 - Biểu thức lambda.genruntimeconfig.cache
+C:\Users\ploan\source\repos\CS21 - Biểu thức lambda\CS21 - Biểu thức lambda\obj\Debug\net8.0\ref\CS21 - Biểu thức lambda.dll

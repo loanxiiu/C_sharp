@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS15 - Namespace và partial trong tổ chức code", "CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code.csproj", "{8A013A3F-C8A5-428D-9775-A01A82DCF285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A013A3F-C8A5-428D-9775-A01A82DCF285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A013A3F-C8A5-428D-9775-A01A82DCF285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A013A3F-C8A5-428D-9775-A01A82DCF285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A013A3F-C8A5-428D-9775-A01A82DCF285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F1074FA-A478-40F2-A41A-3FF574D0CA84}
+	EndGlobalSection
+EndGlobal

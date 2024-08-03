@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\bin\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.exe
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\bin\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.deps.json
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\bin\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.runtimeconfig.json
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\bin\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.dll
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\bin\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.pdb
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\obj\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\obj\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\obj\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\obj\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\obj\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.dll
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\obj\Debug\net8.0\refint\CS20 - khai báo delegate Action, delegate Func.dll
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\obj\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.pdb
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\obj\Debug\net8.0\CS20 - khai báo delegate Action, delegate Func.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS20 - khai báo delegate Action, delegate Func\CS20 - khai báo delegate Action, delegate Func\obj\Debug\net8.0\ref\CS20 - khai báo delegate Action, delegate Func.dll

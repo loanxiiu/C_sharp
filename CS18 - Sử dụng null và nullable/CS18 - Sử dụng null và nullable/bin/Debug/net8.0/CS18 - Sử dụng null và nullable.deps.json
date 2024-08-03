@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CS18 - Sử dụng null và nullable/1.0.0": {
+        "runtime": {
+          "CS18 - Sử dụng null và nullable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS18 - Sử dụng null và nullable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

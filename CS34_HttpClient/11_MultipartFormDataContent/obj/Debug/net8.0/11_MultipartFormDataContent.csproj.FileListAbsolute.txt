@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\bin\Debug\net8.0\11_MultipartFormDataContent.exe
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\bin\Debug\net8.0\11_MultipartFormDataContent.deps.json
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\bin\Debug\net8.0\11_MultipartFormDataContent.runtimeconfig.json
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\bin\Debug\net8.0\11_MultipartFormDataContent.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\bin\Debug\net8.0\11_MultipartFormDataContent.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\obj\Debug\net8.0\11_MultipartFormDataContent.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\obj\Debug\net8.0\11_MultipartFormDataContent.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\obj\Debug\net8.0\11_MultipartFormDataContent.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\obj\Debug\net8.0\11_MultipartFormDataContent.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\obj\Debug\net8.0\11_MultipartFormDataContent.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\obj\Debug\net8.0\refint\11_MultipartFormDataContent.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\obj\Debug\net8.0\11_MultipartFormDataContent.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\obj\Debug\net8.0\11_MultipartFormDataContent.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\11_MultipartFormDataContent\obj\Debug\net8.0\ref\11_MultipartFormDataContent.dll

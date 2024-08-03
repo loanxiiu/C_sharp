@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\bin\Debug\net8.0\Delegate_Action.exe
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\bin\Debug\net8.0\Delegate_Action.deps.json
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\bin\Debug\net8.0\Delegate_Action.runtimeconfig.json
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\bin\Debug\net8.0\Delegate_Action.dll
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\bin\Debug\net8.0\Delegate_Action.pdb
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\obj\Debug\net8.0\Delegate_Action.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\obj\Debug\net8.0\Delegate_Action.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\obj\Debug\net8.0\Delegate_Action.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\obj\Debug\net8.0\Delegate_Action.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\obj\Debug\net8.0\Delegate_Action.dll
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\obj\Debug\net8.0\refint\Delegate_Action.dll
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\obj\Debug\net8.0\Delegate_Action.pdb
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\obj\Debug\net8.0\Delegate_Action.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\Delegate_Action\obj\Debug\net8.0\ref\Delegate_Action.dll

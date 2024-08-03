@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\bin\Debug\net8.0\C#helloworld.exe
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\bin\Debug\net8.0\C#helloworld.deps.json
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\bin\Debug\net8.0\C#helloworld.runtimeconfig.json
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\bin\Debug\net8.0\C#helloworld.dll
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\bin\Debug\net8.0\C#helloworld.pdb
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\obj\Debug\net8.0\C#helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\obj\Debug\net8.0\C#helloworld.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\obj\Debug\net8.0\C#helloworld.AssemblyInfo.cs
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\obj\Debug\net8.0\C#helloworld.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\obj\Debug\net8.0\C#helloworld.dll
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\obj\Debug\net8.0\refint\C#helloworld.dll
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\obj\Debug\net8.0\C#helloworld.pdb
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\obj\Debug\net8.0\C#helloworld.genruntimeconfig.cache
+D:\Users\ploan\source\repos\C#helloworld\C#helloworld\obj\Debug\net8.0\ref\C#helloworld.dll

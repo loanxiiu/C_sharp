@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "5_Async_wait_return/1.0.0": {
+        "runtime": {
+          "5_Async_wait_return.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5_Async_wait_return/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

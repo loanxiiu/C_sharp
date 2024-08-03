@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\obj\Debug\net8.0\File_Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\obj\Debug\net8.0\File_Product.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\obj\Debug\net8.0\File_Product.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\obj\Debug\net8.0\File_Product.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\bin\Debug\net8.0\File_Product.exe
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\bin\Debug\net8.0\File_Product.deps.json
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\bin\Debug\net8.0\File_Product.runtimeconfig.json
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\bin\Debug\net8.0\File_Product.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\bin\Debug\net8.0\File_Product.pdb
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\obj\Debug\net8.0\File_Product.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\obj\Debug\net8.0\refint\File_Product.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\obj\Debug\net8.0\File_Product.pdb
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\obj\Debug\net8.0\File_Product.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\File_Product\obj\Debug\net8.0\ref\File_Product.dll

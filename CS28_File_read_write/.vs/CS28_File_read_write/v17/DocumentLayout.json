@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA47C83-58B0-494C-862C-20135672544A}|File_Product\\File_Product.csproj|d:\\users\\ploan\\source\\repos\\cs28_file_read_write\\file_product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA47C83-58B0-494C-862C-20135672544A}|File_Product\\File_Product.csproj|solutionrelative:file_product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FA6982-90CF-448D-A33B-8C3C20CA2E26}|FileStream\\FileStream.csproj|d:\\users\\ploan\\source\\repos\\cs28_file_read_write\\filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FA6982-90CF-448D-A33B-8C3C20CA2E26}|FileStream\\FileStream.csproj|solutionrelative:filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0915530F-6B02-4493-B1C1-BD7294BED6B4}|File\\File.csproj|d:\\users\\ploan\\source\\repos\\cs28_file_read_write\\file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0915530F-6B02-4493-B1C1-BD7294BED6B4}|File\\File.csproj|solutionrelative:file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DC7C73-55AA-40C4-9E4D-D23D87D11ECE}|Path\\Path.csproj|d:\\users\\ploan\\source\\repos\\cs28_file_read_write\\path\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DC7C73-55AA-40C4-9E4D-D23D87D11ECE}|Path\\Path.csproj|solutionrelative:path\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794615B3-66CC-457F-A556-82C56054280B}|Directory\\Directory.csproj|d:\\users\\ploan\\source\\repos\\cs28_file_read_write\\directory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794615B3-66CC-457F-A556-82C56054280B}|Directory\\Directory.csproj|solutionrelative:directory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59A2950-105C-477B-9AEE-3C60DD66FD11}|CS28_File_read_write\\CS28_File_read_write.csproj|d:\\users\\ploan\\source\\repos\\cs28_file_read_write\\cs28_file_read_write\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59A2950-105C-477B-9AEE-3C60DD66FD11}|CS28_File_read_write\\CS28_File_read_write.csproj|solutionrelative:cs28_file_read_write\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\File_Product\\Program.cs",
+              "RelativeDocumentMoniker": "File_Product\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\File_Product\\Program.cs",
+              "RelativeToolTip": "File_Product\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwEAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T00:02:07.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\FileStream\\Program.cs",
+              "RelativeDocumentMoniker": "FileStream\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\FileStream\\Program.cs",
+              "RelativeToolTip": "FileStream\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:41:29.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\File\\Program.cs",
+              "RelativeDocumentMoniker": "File\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\File\\Program.cs",
+              "RelativeToolTip": "File\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:28:35.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\Path\\Program.cs",
+              "RelativeDocumentMoniker": "Path\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\Path\\Program.cs",
+              "RelativeToolTip": "Path\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:19:17.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\Directory\\Program.cs",
+              "RelativeDocumentMoniker": "Directory\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\Directory\\Program.cs",
+              "RelativeToolTip": "Directory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:05:01.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\CS28_File_read_write\\Program.cs",
+              "RelativeDocumentMoniker": "CS28_File_read_write\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS28_File_read_write\\CS28_File_read_write\\Program.cs",
+              "RelativeToolTip": "CS28_File_read_write\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:45:16.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

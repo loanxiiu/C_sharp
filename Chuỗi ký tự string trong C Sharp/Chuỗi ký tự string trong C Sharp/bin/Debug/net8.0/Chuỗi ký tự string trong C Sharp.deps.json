@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chuỗi ký tự string trong C Sharp/1.0.0": {
+        "runtime": {
+          "Chuỗi ký tự string trong C Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chuỗi ký tự string trong C Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

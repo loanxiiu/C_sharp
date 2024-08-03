@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\bin\Debug\net8.0\DNS.exe
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\bin\Debug\net8.0\DNS.deps.json
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\bin\Debug\net8.0\DNS.runtimeconfig.json
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\bin\Debug\net8.0\DNS.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\bin\Debug\net8.0\DNS.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\DNS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\DNS.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\DNS.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\DNS.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\DNS.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\refint\DNS.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\DNS.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\DNS.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\ref\DNS.dll

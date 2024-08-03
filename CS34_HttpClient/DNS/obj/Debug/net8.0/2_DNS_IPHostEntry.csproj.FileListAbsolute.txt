@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\bin\Debug\net8.0\2_DNS_IPHostEntry.exe
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\bin\Debug\net8.0\2_DNS_IPHostEntry.deps.json
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\bin\Debug\net8.0\2_DNS_IPHostEntry.runtimeconfig.json
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\bin\Debug\net8.0\2_DNS_IPHostEntry.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\bin\Debug\net8.0\2_DNS_IPHostEntry.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\2_DNS_IPHostEntry.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\2_DNS_IPHostEntry.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\2_DNS_IPHostEntry.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\2_DNS_IPHostEntry.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\2_DNS_IPHostEntry.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\refint\2_DNS_IPHostEntry.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\2_DNS_IPHostEntry.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\2_DNS_IPHostEntry.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\DNS\obj\Debug\net8.0\ref\2_DNS_IPHostEntry.dll

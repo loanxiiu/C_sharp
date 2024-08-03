@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\bin\Debug\net8.0\3_Ping.exe
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\bin\Debug\net8.0\3_Ping.deps.json
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\bin\Debug\net8.0\3_Ping.runtimeconfig.json
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\bin\Debug\net8.0\3_Ping.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\bin\Debug\net8.0\3_Ping.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\obj\Debug\net8.0\3_Ping.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\obj\Debug\net8.0\3_Ping.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\obj\Debug\net8.0\3_Ping.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\obj\Debug\net8.0\3_Ping.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\obj\Debug\net8.0\3_Ping.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\obj\Debug\net8.0\refint\3_Ping.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\obj\Debug\net8.0\3_Ping.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\obj\Debug\net8.0\3_Ping.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\Ping\obj\Debug\net8.0\ref\3_Ping.dll

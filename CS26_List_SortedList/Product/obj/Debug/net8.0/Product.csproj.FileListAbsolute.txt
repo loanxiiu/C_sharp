@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\obj\Debug\net8.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\obj\Debug\net8.0\Product.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\obj\Debug\net8.0\Product.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\obj\Debug\net8.0\Product.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\bin\Debug\net8.0\Product.exe
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\bin\Debug\net8.0\Product.deps.json
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\bin\Debug\net8.0\Product.runtimeconfig.json
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\bin\Debug\net8.0\Product.dll
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\bin\Debug\net8.0\Product.pdb
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\obj\Debug\net8.0\Product.dll
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\obj\Debug\net8.0\refint\Product.dll
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\obj\Debug\net8.0\Product.pdb
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\obj\Debug\net8.0\Product.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS26_List_SortedList\Product\obj\Debug\net8.0\ref\Product.dll

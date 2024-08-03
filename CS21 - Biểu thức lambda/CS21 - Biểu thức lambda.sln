@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS21 - Biểu thức lambda", "CS21 - Biểu thức lambda\CS21 - Biểu thức lambda.csproj", "{CE316B08-8E54-48EE-9A61-5394BE18A94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE316B08-8E54-48EE-9A61-5394BE18A94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE316B08-8E54-48EE-9A61-5394BE18A94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE316B08-8E54-48EE-9A61-5394BE18A94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE316B08-8E54-48EE-9A61-5394BE18A94E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C81CB5-E054-451B-975D-637424B3EC02}
+	EndGlobalSection
+EndGlobal

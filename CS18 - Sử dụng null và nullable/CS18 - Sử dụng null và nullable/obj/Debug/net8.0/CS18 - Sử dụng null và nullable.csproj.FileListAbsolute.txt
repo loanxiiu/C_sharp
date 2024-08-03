@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\bin\Debug\net8.0\CS18 - Sử dụng null và nullable.exe
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\bin\Debug\net8.0\CS18 - Sử dụng null và nullable.deps.json
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\bin\Debug\net8.0\CS18 - Sử dụng null và nullable.runtimeconfig.json
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\bin\Debug\net8.0\CS18 - Sử dụng null và nullable.dll
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\bin\Debug\net8.0\CS18 - Sử dụng null và nullable.pdb
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\obj\Debug\net8.0\CS18 - Sử dụng null và nullable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\obj\Debug\net8.0\CS18 - Sử dụng null và nullable.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\obj\Debug\net8.0\CS18 - Sử dụng null và nullable.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\obj\Debug\net8.0\CS18 - Sử dụng null và nullable.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\obj\Debug\net8.0\CS18 - Sử dụng null và nullable.dll
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\obj\Debug\net8.0\refint\CS18 - Sử dụng null và nullable.dll
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\obj\Debug\net8.0\CS18 - Sử dụng null và nullable.pdb
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\obj\Debug\net8.0\CS18 - Sử dụng null và nullable.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS18 - Sử dụng null và nullable\CS18 - Sử dụng null và nullable\obj\Debug\net8.0\ref\CS18 - Sử dụng null và nullable.dll

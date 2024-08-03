@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\bin\Debug\net8.0\8_SendAsync.exe
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\bin\Debug\net8.0\8_SendAsync.deps.json
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\bin\Debug\net8.0\8_SendAsync.runtimeconfig.json
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\bin\Debug\net8.0\8_SendAsync.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\bin\Debug\net8.0\8_SendAsync.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\obj\Debug\net8.0\8_SendAsync.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\obj\Debug\net8.0\8_SendAsync.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\obj\Debug\net8.0\8_SendAsync.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\obj\Debug\net8.0\8_SendAsync.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\obj\Debug\net8.0\8_SendAsync.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\obj\Debug\net8.0\refint\8_SendAsync.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\obj\Debug\net8.0\8_SendAsync.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\obj\Debug\net8.0\8_SendAsync.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\8_SendAsync\obj\Debug\net8.0\ref\8_SendAsync.dll

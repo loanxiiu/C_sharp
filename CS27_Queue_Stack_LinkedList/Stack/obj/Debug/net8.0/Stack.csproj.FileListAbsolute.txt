@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\bin\Debug\net8.0\Stack.exe
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\bin\Debug\net8.0\Stack.deps.json
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\bin\Debug\net8.0\Stack.runtimeconfig.json
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\bin\Debug\net8.0\Stack.dll
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\bin\Debug\net8.0\Stack.pdb
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\obj\Debug\net8.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\obj\Debug\net8.0\Stack.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\obj\Debug\net8.0\Stack.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\obj\Debug\net8.0\Stack.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\obj\Debug\net8.0\Stack.dll
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\obj\Debug\net8.0\refint\Stack.dll
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\obj\Debug\net8.0\Stack.pdb
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\obj\Debug\net8.0\Stack.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Stack\obj\Debug\net8.0\ref\Stack.dll

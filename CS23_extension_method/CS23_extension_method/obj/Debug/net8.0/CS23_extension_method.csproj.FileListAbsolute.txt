@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\bin\Debug\net8.0\CS23_extension_method.exe
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\bin\Debug\net8.0\CS23_extension_method.deps.json
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\bin\Debug\net8.0\CS23_extension_method.runtimeconfig.json
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\bin\Debug\net8.0\CS23_extension_method.dll
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\bin\Debug\net8.0\CS23_extension_method.pdb
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\obj\Debug\net8.0\CS23_extension_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\obj\Debug\net8.0\CS23_extension_method.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\obj\Debug\net8.0\CS23_extension_method.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\obj\Debug\net8.0\CS23_extension_method.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\obj\Debug\net8.0\CS23_extension_method.dll
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\obj\Debug\net8.0\refint\CS23_extension_method.dll
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\obj\Debug\net8.0\CS23_extension_method.pdb
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\obj\Debug\net8.0\CS23_extension_method.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS23_extension_method\CS23_extension_method\obj\Debug\net8.0\ref\CS23_extension_method.dll

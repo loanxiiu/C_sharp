@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\bin\Debug\net8.0\10_StringContent.exe
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\bin\Debug\net8.0\10_StringContent.deps.json
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\bin\Debug\net8.0\10_StringContent.runtimeconfig.json
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\bin\Debug\net8.0\10_StringContent.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\bin\Debug\net8.0\10_StringContent.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\obj\Debug\net8.0\10_StringContent.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\obj\Debug\net8.0\10_StringContent.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\obj\Debug\net8.0\10_StringContent.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\obj\Debug\net8.0\10_StringContent.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\obj\Debug\net8.0\10_StringContent.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\obj\Debug\net8.0\refint\10_StringContent.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\obj\Debug\net8.0\10_StringContent.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\obj\Debug\net8.0\10_StringContent.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\10_StringContent\obj\Debug\net8.0\ref\10_StringContent.dll

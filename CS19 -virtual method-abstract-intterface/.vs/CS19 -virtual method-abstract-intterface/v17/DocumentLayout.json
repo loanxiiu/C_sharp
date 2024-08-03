@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\ploan\\source\\repos\\CS19 -virtual method-abstract-intterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30509ECE-EABA-4900-8DAD-3926687E345D}|Interface\\Interface.csproj|d:\\users\\ploan\\source\\repos\\cs19 -virtual method-abstract-intterface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30509ECE-EABA-4900-8DAD-3926687E345D}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8C5346-C9E8-4885-927F-BF4AF4A434D8}|Abstract\\Abstract.csproj|d:\\users\\ploan\\source\\repos\\cs19 -virtual method-abstract-intterface\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8C5346-C9E8-4885-927F-BF4AF4A434D8}|Abstract\\Abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59BA37A-E640-4E56-8343-4C200B2961C6}|CS19 -virtual method-abstract-intterface\\CS19 -virtual method-abstract-intterface.csproj|d:\\users\\ploan\\source\\repos\\cs19 -virtual method-abstract-intterface\\cs19 -virtual method-abstract-intterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59BA37A-E640-4E56-8343-4C200B2961C6}|CS19 -virtual method-abstract-intterface\\CS19 -virtual method-abstract-intterface.csproj|solutionrelative:cs19 -virtual method-abstract-intterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS19 -virtual method-abstract-intterface\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS19 -virtual method-abstract-intterface\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:55:06.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS19 -virtual method-abstract-intterface\\Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS19 -virtual method-abstract-intterface\\Abstract\\Program.cs",
+              "RelativeToolTip": "Abstract\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA1wAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:54:52.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS19 -virtual method-abstract-intterface\\CS19 -virtual method-abstract-intterface\\Program.cs",
+              "RelativeDocumentMoniker": "CS19 -virtual method-abstract-intterface\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS19 -virtual method-abstract-intterface\\CS19 -virtual method-abstract-intterface\\Program.cs",
+              "RelativeToolTip": "CS19 -virtual method-abstract-intterface\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:34:57.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

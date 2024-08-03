@@ -1,0 +1,14 @@
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\bin\Debug\net8.0\5_Async_wait_return.exe
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\bin\Debug\net8.0\5_Async_wait_return.deps.json
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\bin\Debug\net8.0\5_Async_wait_return.runtimeconfig.json
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\bin\Debug\net8.0\5_Async_wait_return.dll
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\bin\Debug\net8.0\5_Async_wait_return.pdb
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\obj\Debug\net8.0\5_Async_wait_return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\obj\Debug\net8.0\5_Async_wait_return.AssemblyInfoInputs.cache
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\obj\Debug\net8.0\5_Async_wait_return.AssemblyInfo.cs
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\obj\Debug\net8.0\5_Async_wait_return.csproj.CoreCompileInputs.cache
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\obj\Debug\net8.0\5_Async_wait_return.dll
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\obj\Debug\net8.0\refint\5_Async_wait_return.dll
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\obj\Debug\net8.0\5_Async_wait_return.pdb
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\obj\Debug\net8.0\5_Async_wait_return.genruntimeconfig.cache
+C:\Users\ploan\source\repos\CS29_Asynchronous\Async_wait_return\obj\Debug\net8.0\ref\5_Async_wait_return.dll

@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\bin\Debug\net8.0\9_FormUrlEncodedContent.exe
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\bin\Debug\net8.0\9_FormUrlEncodedContent.deps.json
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\bin\Debug\net8.0\9_FormUrlEncodedContent.runtimeconfig.json
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\bin\Debug\net8.0\9_FormUrlEncodedContent.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\bin\Debug\net8.0\9_FormUrlEncodedContent.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\obj\Debug\net8.0\9_FormUrlEncodedContent.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\obj\Debug\net8.0\9_FormUrlEncodedContent.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\obj\Debug\net8.0\9_FormUrlEncodedContent.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\obj\Debug\net8.0\9_FormUrlEncodedContent.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\obj\Debug\net8.0\9_FormUrlEncodedContent.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\obj\Debug\net8.0\refint\9_FormUrlEncodedContent.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\obj\Debug\net8.0\9_FormUrlEncodedContent.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\obj\Debug\net8.0\9_FormUrlEncodedContent.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\9_FormUrlEncodedContent\obj\Debug\net8.0\ref\9_FormUrlEncodedContent.dll

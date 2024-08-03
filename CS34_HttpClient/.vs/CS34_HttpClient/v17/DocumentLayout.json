@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86314A23-5A93-496C-A547-BE5348E97791}|11_MultipartFormDataContent\\11_MultipartFormDataContent.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\11_multipartformdatacontent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86314A23-5A93-496C-A547-BE5348E97791}|11_MultipartFormDataContent\\11_MultipartFormDataContent.csproj|solutionrelative:11_multipartformdatacontent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BB70AD-A5F2-4262-AD70-1540C75346D7}|10_StringContent\\10_StringContent.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\10_stringcontent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BB70AD-A5F2-4262-AD70-1540C75346D7}|10_StringContent\\10_StringContent.csproj|solutionrelative:10_stringcontent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10437351-AFE3-484C-8D70-24054BA48C2D}|9_FormUrlEncodedContent\\9_FormUrlEncodedContent.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\9_formurlencodedcontent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10437351-AFE3-484C-8D70-24054BA48C2D}|9_FormUrlEncodedContent\\9_FormUrlEncodedContent.csproj|solutionrelative:9_formurlencodedcontent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CB93D-5E15-4F14-A9D0-482358FC17C6}|8_SendAsync\\8_SendAsync.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\8_sendasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607CB93D-5E15-4F14-A9D0-482358FC17C6}|8_SendAsync\\8_SendAsync.csproj|solutionrelative:8_sendasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA028C1A-0FDA-480D-9A95-ECE308F84A0C}|5_Header\\5_Header.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\5_header\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA028C1A-0FDA-480D-9A95-ECE308F84A0C}|5_Header\\5_Header.csproj|solutionrelative:5_header\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6DC3B-7F71-4877-86BF-CB650AB103BB}|7_ReadAsStreamAsync\\7_ReadAsStreamAsync.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\7_readasstreamasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E6DC3B-7F71-4877-86BF-CB650AB103BB}|7_ReadAsStreamAsync\\7_ReadAsStreamAsync.csproj|solutionrelative:7_readasstreamasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B692C1D1-7568-4816-A0FD-195B5EF68F80}|6_ReadAsByteArrayAsync\\6_ReadAsByteArrayAsync.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\6_readasbytearrayasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B692C1D1-7568-4816-A0FD-195B5EF68F80}|6_ReadAsByteArrayAsync\\6_ReadAsByteArrayAsync.csproj|solutionrelative:6_readasbytearrayasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7548D005-A15F-4C6D-9264-1AF2AA238161}|CS34_HttpClient\\CS34_HttpClient.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\cs34_httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7548D005-A15F-4C6D-9264-1AF2AA238161}|CS34_HttpClient\\CS34_HttpClient.csproj|solutionrelative:cs34_httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D89311-8598-4244-B886-A8CA6F68B202}|DNS\\DNS.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\dns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D89311-8598-4244-B886-A8CA6F68B202}|DNS\\DNS.csproj|solutionrelative:dns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57137523-C4BD-41FC-B159-72F3B9415448}|Ping\\Ping.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\ping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57137523-C4BD-41FC-B159-72F3B9415448}|Ping\\Ping.csproj|solutionrelative:ping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D331A46F-1069-4490-970B-EB940DCDB4E6}|4_HttpClient\\4_HttpClient.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\4_httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D331A46F-1069-4490-970B-EB940DCDB4E6}|4_HttpClient\\4_HttpClient.csproj|solutionrelative:4_httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D331A46F-1069-4490-970B-EB940DCDB4E6}|4_HttpClient\\4_HttpClient.csproj|e:\\users\\ploan\\source\\repos\\cs34_httpclient\\4_httpclient\\4_httpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D331A46F-1069-4490-970B-EB940DCDB4E6}|4_HttpClient\\4_HttpClient.csproj|solutionrelative:4_httpclient\\4_httpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 139,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\11_MultipartFormDataContent\\Program.cs",
+              "RelativeDocumentMoniker": "11_MultipartFormDataContent\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\11_MultipartFormDataContent\\Program.cs",
+              "RelativeToolTip": "11_MultipartFormDataContent\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA/wBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:56:09.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\10_StringContent\\Program.cs",
+              "RelativeDocumentMoniker": "10_StringContent\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\10_StringContent\\Program.cs",
+              "RelativeToolTip": "10_StringContent\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:18:42.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\9_FormUrlEncodedContent\\Program.cs",
+              "RelativeDocumentMoniker": "9_FormUrlEncodedContent\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\9_FormUrlEncodedContent\\Program.cs",
+              "RelativeToolTip": "9_FormUrlEncodedContent\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:10:34.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\8_SendAsync\\Program.cs",
+              "RelativeDocumentMoniker": "8_SendAsync\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\8_SendAsync\\Program.cs",
+              "RelativeToolTip": "8_SendAsync\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:58:11.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\7_ReadAsStreamAsync\\Program.cs",
+              "RelativeDocumentMoniker": "7_ReadAsStreamAsync\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\7_ReadAsStreamAsync\\Program.cs",
+              "RelativeToolTip": "7_ReadAsStreamAsync\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:39:54.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\6_ReadAsByteArrayAsync\\Program.cs",
+              "RelativeDocumentMoniker": "6_ReadAsByteArrayAsync\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\6_ReadAsByteArrayAsync\\Program.cs",
+              "RelativeToolTip": "6_ReadAsByteArrayAsync\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:22:41.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\5_Header\\Program.cs",
+              "RelativeDocumentMoniker": "5_Header\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\5_Header\\Program.cs",
+              "RelativeToolTip": "5_Header\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:14:47.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "4_HttpClient",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\4_HttpClient\\4_HttpClient.csproj",
+              "RelativeDocumentMoniker": "4_HttpClient\\4_HttpClient.csproj",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\4_HttpClient\\4_HttpClient.csproj",
+              "RelativeToolTip": "4_HttpClient\\4_HttpClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T14:13:40.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\4_HttpClient\\Program.cs",
+              "RelativeDocumentMoniker": "4_HttpClient\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\4_HttpClient\\Program.cs",
+              "RelativeToolTip": "4_HttpClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:49:16.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\Ping\\Program.cs",
+              "RelativeDocumentMoniker": "Ping\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\Ping\\Program.cs",
+              "RelativeToolTip": "Ping\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:43:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\DNS\\Program.cs",
+              "RelativeDocumentMoniker": "DNS\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\DNS\\Program.cs",
+              "RelativeToolTip": "DNS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:35:31.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\CS34_HttpClient\\Program.cs",
+              "RelativeDocumentMoniker": "CS34_HttpClient\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS34_HttpClient\\CS34_HttpClient\\Program.cs",
+              "RelativeToolTip": "CS34_HttpClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:01:06.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

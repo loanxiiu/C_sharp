@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\obj\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\obj\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\obj\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\obj\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\bin\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.exe
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\bin\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.deps.json
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\bin\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.runtimeconfig.json
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\bin\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.dll
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\bin\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.pdb
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\obj\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.dll
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\obj\Debug\net8.0\refint\CS15 - Namespace và partial trong tổ chức code.dll
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\obj\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.pdb
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\obj\Debug\net8.0\CS15 - Namespace và partial trong tổ chức code.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS15 - Namespace và partial trong tổ chức code\CS15 - Namespace và partial trong tổ chức code\obj\Debug\net8.0\ref\CS15 - Namespace và partial trong tổ chức code.dll

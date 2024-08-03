@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.exe
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.dll
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.dll
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll

@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\obj\Debug\net8.0\EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\obj\Debug\net8.0\EventHandler.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\obj\Debug\net8.0\EventHandler.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\obj\Debug\net8.0\EventHandler.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\bin\Debug\net8.0\EventHandler.exe
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\bin\Debug\net8.0\EventHandler.deps.json
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\bin\Debug\net8.0\EventHandler.runtimeconfig.json
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\bin\Debug\net8.0\EventHandler.dll
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\bin\Debug\net8.0\EventHandler.pdb
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\obj\Debug\net8.0\EventHandler.dll
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\obj\Debug\net8.0\refint\EventHandler.dll
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\obj\Debug\net8.0\EventHandler.pdb
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\obj\Debug\net8.0\EventHandler.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS2 _event_delegate_EventHandler\EventHandler\obj\Debug\net8.0\ref\EventHandler.dll

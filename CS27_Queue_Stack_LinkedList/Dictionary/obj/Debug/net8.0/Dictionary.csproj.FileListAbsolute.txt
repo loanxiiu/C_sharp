@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\bin\Debug\net8.0\Dictionary.exe
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\bin\Debug\net8.0\Dictionary.dll
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\obj\Debug\net8.0\Dictionary.dll
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS27_Queue_Stack_LinkedList\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll

@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\bin\Debug\net8.0\Thu_vien_toan_hoc_Math.exe
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\bin\Debug\net8.0\Thu_vien_toan_hoc_Math.deps.json
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\bin\Debug\net8.0\Thu_vien_toan_hoc_Math.runtimeconfig.json
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\bin\Debug\net8.0\Thu_vien_toan_hoc_Math.dll
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\bin\Debug\net8.0\Thu_vien_toan_hoc_Math.pdb
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\obj\Debug\net8.0\Thu_vien_toan_hoc_Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\obj\Debug\net8.0\Thu_vien_toan_hoc_Math.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\obj\Debug\net8.0\Thu_vien_toan_hoc_Math.AssemblyInfo.cs
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\obj\Debug\net8.0\Thu_vien_toan_hoc_Math.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\obj\Debug\net8.0\Thu_vien_toan_hoc_Math.dll
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\obj\Debug\net8.0\refint\Thu_vien_toan_hoc_Math.dll
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\obj\Debug\net8.0\Thu_vien_toan_hoc_Math.pdb
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\obj\Debug\net8.0\Thu_vien_toan_hoc_Math.genruntimeconfig.cache
+D:\Users\ploan\source\repos\Thu_vien_toan_hoc_Math\Thu_vien_toan_hoc_Math\obj\Debug\net8.0\ref\Thu_vien_toan_hoc_Math.dll

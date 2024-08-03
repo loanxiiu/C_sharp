@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\obj\Debug\net8.0\02_HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\obj\Debug\net8.0\02_HttpServer.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\obj\Debug\net8.0\02_HttpServer.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\obj\Debug\net8.0\02_HttpServer.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\bin\Debug\net8.0\02_HttpServer.exe
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\bin\Debug\net8.0\02_HttpServer.deps.json
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\bin\Debug\net8.0\02_HttpServer.runtimeconfig.json
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\bin\Debug\net8.0\02_HttpServer.dll
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\bin\Debug\net8.0\02_HttpServer.pdb
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\obj\Debug\net8.0\02_HttpServer.dll
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\obj\Debug\net8.0\refint\02_HttpServer.dll
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\obj\Debug\net8.0\02_HttpServer.pdb
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\obj\Debug\net8.0\02_HttpServer.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS36_HttpListener\02_HttpServer\obj\Debug\net8.0\ref\02_HttpServer.dll

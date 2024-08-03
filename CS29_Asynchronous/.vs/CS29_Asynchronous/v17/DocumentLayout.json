@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ploan\\source\\repos\\CS29_Asynchronous\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9515B7-4594-4532-9608-1BD13B943ABC}|Async_await\\4_Async_await.csproj|c:\\users\\ploan\\source\\repos\\cs29_asynchronous\\async_await\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9515B7-4594-4532-9608-1BD13B943ABC}|Async_await\\4_Async_await.csproj|solutionrelative:async_await\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E1EB-BF7C-4BFF-A65D-E94B05A7966C}|Task\\3_Task.csproj|c:\\users\\ploan\\source\\repos\\cs29_asynchronous\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E1EB-BF7C-4BFF-A65D-E94B05A7966C}|Task\\3_Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D33E0F-A87F-4DB1-9DE9-6D4A1598FC13}|Async_wait_return\\5_Async_wait_return.csproj|c:\\users\\ploan\\source\\repos\\cs29_asynchronous\\async_wait_return\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D33E0F-A87F-4DB1-9DE9-6D4A1598FC13}|Async_wait_return\\5_Async_wait_return.csproj|solutionrelative:async_wait_return\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D0DB6E-73D6-4127-9BA1-15109E11334F}|Synchronous\\2_Synchronous.csproj|c:\\users\\ploan\\source\\repos\\cs29_asynchronous\\synchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D0DB6E-73D6-4127-9BA1-15109E11334F}|Synchronous\\2_Synchronous.csproj|solutionrelative:synchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71CEBB0-B3F2-4276-89BD-8A4D83091F48}|CS29_Asynchronous\\1_Lock.csproj|c:\\users\\ploan\\source\\repos\\cs29_asynchronous\\cs29_asynchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71CEBB0-B3F2-4276-89BD-8A4D83091F48}|CS29_Asynchronous\\1_Lock.csproj|solutionrelative:cs29_asynchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ploan\\source\\repos\\CS29_Asynchronous\\Async_await\\Program.cs",
+              "RelativeDocumentMoniker": "Async_await\\Program.cs",
+              "ToolTip": "C:\\Users\\ploan\\source\\repos\\CS29_Asynchronous\\Async_await\\Program.cs",
+              "RelativeToolTip": "Async_await\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwEMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:17:05.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ploan\\source\\repos\\CS29_Asynchronous\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "C:\\Users\\ploan\\source\\repos\\CS29_Asynchronous\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:41:21.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ploan\\source\\repos\\CS29_Asynchronous\\Async_wait_return\\Program.cs",
+              "RelativeDocumentMoniker": "Async_wait_return\\Program.cs",
+              "ToolTip": "C:\\Users\\ploan\\source\\repos\\CS29_Asynchronous\\Async_wait_return\\Program.cs",
+              "RelativeToolTip": "Async_wait_return\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwHgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:43:46.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ploan\\source\\repos\\CS29_Asynchronous\\Synchronous\\Program.cs",
+              "RelativeDocumentMoniker": "Synchronous\\Program.cs",
+              "ToolTip": "C:\\Users\\ploan\\source\\repos\\CS29_Asynchronous\\Synchronous\\Program.cs",
+              "RelativeToolTip": "Synchronous\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:33:58.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ploan\\source\\repos\\CS29_Asynchronous\\CS29_Asynchronous\\Program.cs",
+              "RelativeDocumentMoniker": "CS29_Asynchronous\\Program.cs",
+              "ToolTip": "C:\\Users\\ploan\\source\\repos\\CS29_Asynchronous\\CS29_Asynchronous\\Program.cs",
+              "RelativeToolTip": "CS29_Asynchronous\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:59:58.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

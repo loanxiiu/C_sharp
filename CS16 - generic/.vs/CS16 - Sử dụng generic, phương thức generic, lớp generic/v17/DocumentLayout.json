@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\ploan\\source\\repos\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C05910D-52F6-437A-ADDD-037A2B61E841}|CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic.csproj|d:\\users\\ploan\\source\\repos\\cs16 - s\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\cs16 - s\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C05910D-52F6-437A-ADDD-037A2B61E841}|CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic.csproj|solutionrelative:cs16 - s\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C05910D-52F6-437A-ADDD-037A2B61E841}|CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic.csproj|d:\\users\\ploan\\source\\repos\\cs16 - s\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\cs16 - s\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C05910D-52F6-437A-ADDD-037A2B61E841}|CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic.csproj|solutionrelative:cs16 - s\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\Product.cs",
+              "RelativeDocumentMoniker": "CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\Product.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\Product.cs",
+              "RelativeToolTip": "CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:59:52.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\Program.cs",
+              "RelativeDocumentMoniker": "CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\Program.cs",
+              "RelativeToolTip": "CS16 - S\u1EED d\u1EE5ng generic, ph\u01B0\u01A1ng th\u1EE9c generic, l\u1EDBp generic\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:34:21.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

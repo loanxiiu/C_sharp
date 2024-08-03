@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS28_File_read_write\File\bin\Debug\net8.0\File.exe
+D:\Users\ploan\source\repos\CS28_File_read_write\File\bin\Debug\net8.0\File.deps.json
+D:\Users\ploan\source\repos\CS28_File_read_write\File\bin\Debug\net8.0\File.runtimeconfig.json
+D:\Users\ploan\source\repos\CS28_File_read_write\File\bin\Debug\net8.0\File.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\File\bin\Debug\net8.0\File.pdb
+D:\Users\ploan\source\repos\CS28_File_read_write\File\obj\Debug\net8.0\File.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS28_File_read_write\File\obj\Debug\net8.0\File.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\File\obj\Debug\net8.0\File.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS28_File_read_write\File\obj\Debug\net8.0\File.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\File\obj\Debug\net8.0\File.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\File\obj\Debug\net8.0\refint\File.dll
+D:\Users\ploan\source\repos\CS28_File_read_write\File\obj\Debug\net8.0\File.pdb
+D:\Users\ploan\source\repos\CS28_File_read_write\File\obj\Debug\net8.0\File.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS28_File_read_write\File\obj\Debug\net8.0\ref\File.dll

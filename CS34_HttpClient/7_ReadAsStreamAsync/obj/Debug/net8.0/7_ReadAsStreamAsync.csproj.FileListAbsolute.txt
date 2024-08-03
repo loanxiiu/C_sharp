@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\bin\Debug\net8.0\7_ReadAsStreamAsync.exe
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\bin\Debug\net8.0\7_ReadAsStreamAsync.deps.json
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\bin\Debug\net8.0\7_ReadAsStreamAsync.runtimeconfig.json
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\bin\Debug\net8.0\7_ReadAsStreamAsync.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\bin\Debug\net8.0\7_ReadAsStreamAsync.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\obj\Debug\net8.0\7_ReadAsStreamAsync.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\obj\Debug\net8.0\7_ReadAsStreamAsync.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\obj\Debug\net8.0\7_ReadAsStreamAsync.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\obj\Debug\net8.0\7_ReadAsStreamAsync.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\obj\Debug\net8.0\7_ReadAsStreamAsync.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\obj\Debug\net8.0\refint\7_ReadAsStreamAsync.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\obj\Debug\net8.0\7_ReadAsStreamAsync.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\obj\Debug\net8.0\7_ReadAsStreamAsync.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\7_ReadAsStreamAsync\obj\Debug\net8.0\ref\7_ReadAsStreamAsync.dll

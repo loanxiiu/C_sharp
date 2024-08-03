@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\bin\Debug\net8.0\Chuỗi ký tự string trong C Sharp.exe
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\bin\Debug\net8.0\Chuỗi ký tự string trong C Sharp.deps.json
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\bin\Debug\net8.0\Chuỗi ký tự string trong C Sharp.runtimeconfig.json
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\bin\Debug\net8.0\Chuỗi ký tự string trong C Sharp.dll
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\bin\Debug\net8.0\Chuỗi ký tự string trong C Sharp.pdb
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\obj\Debug\net8.0\Chuỗi ký tự string trong C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\obj\Debug\net8.0\Chuỗi ký tự string trong C Sharp.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\obj\Debug\net8.0\Chuỗi ký tự string trong C Sharp.AssemblyInfo.cs
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\obj\Debug\net8.0\Chuỗi ký tự string trong C Sharp.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\obj\Debug\net8.0\Chuỗi ký tự string trong C Sharp.dll
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\obj\Debug\net8.0\refint\Chuỗi ký tự string trong C Sharp.dll
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\obj\Debug\net8.0\Chuỗi ký tự string trong C Sharp.pdb
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\obj\Debug\net8.0\Chuỗi ký tự string trong C Sharp.genruntimeconfig.cache
+D:\Users\ploan\source\repos\Chuỗi ký tự string trong C Sharp\Chuỗi ký tự string trong C Sharp\obj\Debug\net8.0\ref\Chuỗi ký tự string trong C Sharp.dll

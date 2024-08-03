@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\ploan\\source\\repos\\Chu\u1ED7i k\u00FD t\u1EF1 string trong C Sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA884025-D5F0-451D-AE6C-4B938EF16353}|Chu\u1ED7i k\u00FD t\u1EF1 string trong C Sharp\\Chu\u1ED7i k\u00FD t\u1EF1 string trong C Sharp.csproj|d:\\users\\ploan\\source\\repos\\chu\u1ED7i k\u00FD t\u1EF1 string trong c sharp\\chu\u1ED7i k\u00FD t\u1EF1 string trong c sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA884025-D5F0-451D-AE6C-4B938EF16353}|Chu\u1ED7i k\u00FD t\u1EF1 string trong C Sharp\\Chu\u1ED7i k\u00FD t\u1EF1 string trong C Sharp.csproj|solutionrelative:chu\u1ED7i k\u00FD t\u1EF1 string trong c sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\Chu\u1ED7i k\u00FD t\u1EF1 string trong C Sharp\\Chu\u1ED7i k\u00FD t\u1EF1 string trong C Sharp\\Program.cs",
+              "RelativeDocumentMoniker": "Chu\u1ED7i k\u00FD t\u1EF1 string trong C Sharp\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\Chu\u1ED7i k\u00FD t\u1EF1 string trong C Sharp\\Chu\u1ED7i k\u00FD t\u1EF1 string trong C Sharp\\Program.cs",
+              "RelativeToolTip": "Chu\u1ED7i k\u00FD t\u1EF1 string trong C Sharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:27:08.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

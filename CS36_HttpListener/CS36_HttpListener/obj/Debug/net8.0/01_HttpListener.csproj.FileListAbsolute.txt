@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\bin\Debug\net8.0\01_HttpListener.exe
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\bin\Debug\net8.0\01_HttpListener.deps.json
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\bin\Debug\net8.0\01_HttpListener.runtimeconfig.json
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\bin\Debug\net8.0\01_HttpListener.dll
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\bin\Debug\net8.0\01_HttpListener.pdb
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\obj\Debug\net8.0\01_HttpListener.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\obj\Debug\net8.0\01_HttpListener.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\obj\Debug\net8.0\01_HttpListener.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\obj\Debug\net8.0\01_HttpListener.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\obj\Debug\net8.0\01_HttpListener.dll
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\obj\Debug\net8.0\refint\01_HttpListener.dll
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\obj\Debug\net8.0\01_HttpListener.pdb
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\obj\Debug\net8.0\01_HttpListener.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS36_HttpListener\CS36_HttpListener\obj\Debug\net8.0\ref\01_HttpListener.dll

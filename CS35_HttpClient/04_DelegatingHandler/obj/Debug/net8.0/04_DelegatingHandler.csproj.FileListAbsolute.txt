@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\bin\Debug\net8.0\04_DelegatingHandler.exe
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\bin\Debug\net8.0\04_DelegatingHandler.deps.json
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\bin\Debug\net8.0\04_DelegatingHandler.runtimeconfig.json
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\bin\Debug\net8.0\04_DelegatingHandler.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\bin\Debug\net8.0\04_DelegatingHandler.pdb
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\obj\Debug\net8.0\04_DelegatingHandler.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\obj\Debug\net8.0\04_DelegatingHandler.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\obj\Debug\net8.0\04_DelegatingHandler.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\obj\Debug\net8.0\04_DelegatingHandler.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\obj\Debug\net8.0\04_DelegatingHandler.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\obj\Debug\net8.0\refint\04_DelegatingHandler.dll
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\obj\Debug\net8.0\04_DelegatingHandler.pdb
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\obj\Debug\net8.0\04_DelegatingHandler.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS35_HttpClient\04_DelegatingHandler\obj\Debug\net8.0\ref\04_DelegatingHandler.dll

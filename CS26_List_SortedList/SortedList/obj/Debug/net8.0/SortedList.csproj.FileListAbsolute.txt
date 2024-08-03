@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\bin\Debug\net8.0\SortedList.exe
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\bin\Debug\net8.0\SortedList.deps.json
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\bin\Debug\net8.0\SortedList.runtimeconfig.json
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\bin\Debug\net8.0\SortedList.dll
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\bin\Debug\net8.0\SortedList.pdb
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\obj\Debug\net8.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\obj\Debug\net8.0\SortedList.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\obj\Debug\net8.0\SortedList.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\obj\Debug\net8.0\SortedList.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\obj\Debug\net8.0\SortedList.dll
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\obj\Debug\net8.0\refint\SortedList.dll
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\obj\Debug\net8.0\SortedList.pdb
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\obj\Debug\net8.0\SortedList.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS26_List_SortedList\SortedList\obj\Debug\net8.0\ref\SortedList.dll

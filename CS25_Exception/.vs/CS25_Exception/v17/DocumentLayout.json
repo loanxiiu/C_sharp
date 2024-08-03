@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\ploan\\source\\repos\\CS25_Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B202E6-100A-4DDC-A68F-BF8C87B51A97}|CS25_Exception\\CS25_Exception.csproj|d:\\users\\ploan\\source\\repos\\cs25_exception\\cs25_exception\\buildingexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B202E6-100A-4DDC-A68F-BF8C87B51A97}|CS25_Exception\\CS25_Exception.csproj|solutionrelative:cs25_exception\\buildingexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B202E6-100A-4DDC-A68F-BF8C87B51A97}|CS25_Exception\\CS25_Exception.csproj|d:\\users\\ploan\\source\\repos\\cs25_exception\\cs25_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B202E6-100A-4DDC-A68F-BF8C87B51A97}|CS25_Exception\\CS25_Exception.csproj|solutionrelative:cs25_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildingExeption.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS25_Exception\\CS25_Exception\\BuildingExeption.cs",
+              "RelativeDocumentMoniker": "CS25_Exception\\BuildingExeption.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS25_Exception\\CS25_Exception\\BuildingExeption.cs",
+              "RelativeToolTip": "CS25_Exception\\BuildingExeption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:32:00.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS25_Exception\\CS25_Exception\\Program.cs",
+              "RelativeDocumentMoniker": "CS25_Exception\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS25_Exception\\CS25_Exception\\Program.cs",
+              "RelativeToolTip": "CS25_Exception\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:59:27.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

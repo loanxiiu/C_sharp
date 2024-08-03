@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\ploan\\source\\repos\\CS20_Delegate_delegateAction_delegateFunc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4DC69C-6B5A-4700-828D-23AB37F2F9FA}|Delegate_Func\\Delegate_Func.csproj|e:\\users\\ploan\\source\\repos\\cs20_delegate_delegateaction_delegatefunc\\delegate_func\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4DC69C-6B5A-4700-828D-23AB37F2F9FA}|Delegate_Func\\Delegate_Func.csproj|solutionrelative:delegate_func\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F1689A-E618-48C4-A255-5DCAD9C96674}|Delegate_operator\\Delegate_operator.csproj|e:\\users\\ploan\\source\\repos\\cs20_delegate_delegateaction_delegatefunc\\delegate_operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F1689A-E618-48C4-A255-5DCAD9C96674}|Delegate_operator\\Delegate_operator.csproj|solutionrelative:delegate_operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014F4C60-7F44-40AA-828A-E435E2509C7F}|Delegate_Action\\Delegate_Action.csproj|e:\\users\\ploan\\source\\repos\\cs20_delegate_delegateaction_delegatefunc\\delegate_action\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014F4C60-7F44-40AA-828A-E435E2509C7F}|Delegate_Action\\Delegate_Action.csproj|solutionrelative:delegate_action\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B0FC20-BB16-4C47-B9CE-AEDF4F722D76}|CS20_Delegate_delegateAction_delegateFunc\\CS20_Delegate_delegateAction_delegateFunc.csproj|e:\\users\\ploan\\source\\repos\\cs20_delegate_delegateaction_delegatefunc\\cs20_delegate_delegateaction_delegatefunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B0FC20-BB16-4C47-B9CE-AEDF4F722D76}|CS20_Delegate_delegateAction_delegateFunc\\CS20_Delegate_delegateAction_delegateFunc.csproj|solutionrelative:cs20_delegate_delegateaction_delegatefunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS20_Delegate_delegateAction_delegateFunc\\Delegate_Func\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate_Func\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS20_Delegate_delegateAction_delegateFunc\\Delegate_Func\\Program.cs",
+              "RelativeToolTip": "Delegate_Func\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:15:21.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS20_Delegate_delegateAction_delegateFunc\\Delegate_Action\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate_Action\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS20_Delegate_delegateAction_delegateFunc\\Delegate_Action\\Program.cs",
+              "RelativeToolTip": "Delegate_Action\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:15:03.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS20_Delegate_delegateAction_delegateFunc\\Delegate_operator\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate_operator\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS20_Delegate_delegateAction_delegateFunc\\Delegate_operator\\Program.cs",
+              "RelativeToolTip": "Delegate_operator\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA0wB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:12:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\ploan\\source\\repos\\CS20_Delegate_delegateAction_delegateFunc\\CS20_Delegate_delegateAction_delegateFunc\\Program.cs",
+              "RelativeDocumentMoniker": "CS20_Delegate_delegateAction_delegateFunc\\Program.cs",
+              "ToolTip": "E:\\Users\\ploan\\source\\repos\\CS20_Delegate_delegateAction_delegateFunc\\CS20_Delegate_delegateAction_delegateFunc\\Program.cs",
+              "RelativeToolTip": "CS20_Delegate_delegateAction_delegateFunc\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:46:45.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

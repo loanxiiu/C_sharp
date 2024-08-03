@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\bin\Debug\net8.0\4_HttpClient.exe
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\bin\Debug\net8.0\4_HttpClient.deps.json
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\bin\Debug\net8.0\4_HttpClient.runtimeconfig.json
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\bin\Debug\net8.0\4_HttpClient.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\bin\Debug\net8.0\4_HttpClient.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\obj\Debug\net8.0\4_HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\obj\Debug\net8.0\4_HttpClient.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\obj\Debug\net8.0\4_HttpClient.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\obj\Debug\net8.0\4_HttpClient.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\obj\Debug\net8.0\4_HttpClient.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\obj\Debug\net8.0\refint\4_HttpClient.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\obj\Debug\net8.0\4_HttpClient.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\obj\Debug\net8.0\4_HttpClient.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\4_HttpClient\obj\Debug\net8.0\ref\4_HttpClient.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\ploan\\source\\repos\\CS23_extension_method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB9BCD4-705E-4328-AAB9-A60283ECA54B}|CS23_extension_method\\CS23_extension_method.csproj|d:\\users\\ploan\\source\\repos\\cs23_extension_method\\cs23_extension_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB9BCD4-705E-4328-AAB9-A60283ECA54B}|CS23_extension_method\\CS23_extension_method.csproj|solutionrelative:cs23_extension_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB9BCD4-705E-4328-AAB9-A60283ECA54B}|CS23_extension_method\\CS23_extension_method.csproj|D:\\Users\\ploan\\source\\repos\\CS23_extension_method\\cs23_extension_method\\myextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB9BCD4-705E-4328-AAB9-A60283ECA54B}|CS23_extension_method\\CS23_extension_method.csproj|solutionrelative:cs23_extension_method\\myextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyExtension.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS23_extension_method\\CS23_extension_method\\MyExtension.cs",
+              "RelativeDocumentMoniker": "CS23_extension_method\\MyExtension.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS23_extension_method\\CS23_extension_method\\MyExtension.cs",
+              "RelativeToolTip": "CS23_extension_method\\MyExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:04:57.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ploan\\source\\repos\\CS23_extension_method\\CS23_extension_method\\Program.cs",
+              "RelativeDocumentMoniker": "CS23_extension_method\\Program.cs",
+              "ToolTip": "D:\\Users\\ploan\\source\\repos\\CS23_extension_method\\CS23_extension_method\\Program.cs",
+              "RelativeToolTip": "CS23_extension_method\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:50:33.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

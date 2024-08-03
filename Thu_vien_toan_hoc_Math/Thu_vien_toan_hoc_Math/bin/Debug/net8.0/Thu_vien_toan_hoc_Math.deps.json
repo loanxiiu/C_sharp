@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Thu_vien_toan_hoc_Math/1.0.0": {
+        "runtime": {
+          "Thu_vien_toan_hoc_Math.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thu_vien_toan_hoc_Math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

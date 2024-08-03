@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\bin\Debug\net8.0\Delegate.exe
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\bin\Debug\net8.0\Delegate.deps.json
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\bin\Debug\net8.0\Delegate.runtimeconfig.json
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\bin\Debug\net8.0\Delegate.dll
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\bin\Debug\net8.0\Delegate.pdb
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\obj\Debug\net8.0\Delegate.dll
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\obj\Debug\net8.0\refint\Delegate.dll
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\obj\Debug\net8.0\Delegate.pdb
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS20_Delegate_delegateAction_delegateFunc\CS20_Delegate_delegateAction_delegateFunc\obj\Debug\net8.0\ref\Delegate.dll

@@ -1,0 +1,14 @@
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\bin\Debug\net8.0\DiaChiUri_LopUri.exe
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\bin\Debug\net8.0\DiaChiUri_LopUri.deps.json
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\bin\Debug\net8.0\DiaChiUri_LopUri.runtimeconfig.json
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\bin\Debug\net8.0\DiaChiUri_LopUri.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\bin\Debug\net8.0\DiaChiUri_LopUri.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\obj\Debug\net8.0\DiaChiUri_LopUri.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\obj\Debug\net8.0\DiaChiUri_LopUri.AssemblyInfoInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\obj\Debug\net8.0\DiaChiUri_LopUri.AssemblyInfo.cs
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\obj\Debug\net8.0\DiaChiUri_LopUri.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\obj\Debug\net8.0\DiaChiUri_LopUri.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\obj\Debug\net8.0\refint\DiaChiUri_LopUri.dll
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\obj\Debug\net8.0\DiaChiUri_LopUri.pdb
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\obj\Debug\net8.0\DiaChiUri_LopUri.genruntimeconfig.cache
+E:\Users\ploan\source\repos\CS34_HttpClient\CS34_HttpClient\obj\Debug\net8.0\ref\DiaChiUri_LopUri.dll

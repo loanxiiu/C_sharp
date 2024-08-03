@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\bin\Debug\net8.0\CS19 -virtual method-abstract-intterface.exe
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\bin\Debug\net8.0\CS19 -virtual method-abstract-intterface.deps.json
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\bin\Debug\net8.0\CS19 -virtual method-abstract-intterface.runtimeconfig.json
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\bin\Debug\net8.0\CS19 -virtual method-abstract-intterface.dll
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\bin\Debug\net8.0\CS19 -virtual method-abstract-intterface.pdb
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\obj\Debug\net8.0\CS19 -virtual method-abstract-intterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\obj\Debug\net8.0\CS19 -virtual method-abstract-intterface.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\obj\Debug\net8.0\CS19 -virtual method-abstract-intterface.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\obj\Debug\net8.0\CS19 -virtual method-abstract-intterface.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\obj\Debug\net8.0\CS19 -virtual method-abstract-intterface.dll
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\obj\Debug\net8.0\refint\CS19 -virtual method-abstract-intterface.dll
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\obj\Debug\net8.0\CS19 -virtual method-abstract-intterface.pdb
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\obj\Debug\net8.0\CS19 -virtual method-abstract-intterface.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS19 -virtual method-abstract-intterface\CS19 -virtual method-abstract-intterface\obj\Debug\net8.0\ref\CS19 -virtual method-abstract-intterface.dll

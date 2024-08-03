@@ -1,0 +1,14 @@
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\bin\Debug\net8.0\CS25_Exception.exe
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\bin\Debug\net8.0\CS25_Exception.deps.json
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\bin\Debug\net8.0\CS25_Exception.runtimeconfig.json
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\bin\Debug\net8.0\CS25_Exception.dll
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\bin\Debug\net8.0\CS25_Exception.pdb
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\obj\Debug\net8.0\CS25_Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\obj\Debug\net8.0\CS25_Exception.AssemblyInfoInputs.cache
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\obj\Debug\net8.0\CS25_Exception.AssemblyInfo.cs
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\obj\Debug\net8.0\CS25_Exception.csproj.CoreCompileInputs.cache
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\obj\Debug\net8.0\CS25_Exception.dll
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\obj\Debug\net8.0\refint\CS25_Exception.dll
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\obj\Debug\net8.0\CS25_Exception.pdb
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\obj\Debug\net8.0\CS25_Exception.genruntimeconfig.cache
+D:\Users\ploan\source\repos\CS25_Exception\CS25_Exception\obj\Debug\net8.0\ref\CS25_Exception.dll
